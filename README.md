@@ -33,3 +33,5 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
 <br>
 
 ![kguite's github stats](https://github-readme-stats.vercel.app/api?username=kguite&count_private=true&show_icons=true&theme=default)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kguite" alt="kguite" /></p>
