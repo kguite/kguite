@@ -1,6 +1,10 @@
-### Welcome to my profile! <a href="https://www.linkedin.com/in/katiemariedev/"><img align="center" alt="KatieMarie's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/6285457cff60df50c3425941897ed4b4/tenor.gif"/>
+### Welcome to my profile! 
 
+<a href="https://www.linkedin.com/in/katiemariedev/"><img align="center" alt="KatieMarie's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<div>
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/6285457cff60df50c3425941897ed4b4/tenor.gif"/>
+</div>
 
 Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
 
