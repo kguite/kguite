@@ -6,11 +6,11 @@
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/6285457cff60df50c3425941897ed4b4/tenor.gif"/>
 </div>
 
-Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
+Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 
 **Personal**
 
-- 👩 I’m looking to work with companies that focus on lifting up women;
+- 👩 I’m looking to work with companies that value lifting up women;
 - 🌱 I currently volunteer as website manager and content editor for www.nowseattle.org;
 - 🌳 I recently volunteered to create https://www.savetheancientoaks.netlify.app;
 - 💻 I’m currently working as a Software Developer at 100Devs,
@@ -18,7 +18,8 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 🚀 from Seattle.
 - 📖 My portfolio can be found at https://www.katiemarie.dev;
 - 📫 To reach me, please email katiemariedev@protonmail.com
 - 💬 Ask me about anything, I am happy to help.
-- 
+
+
 **Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
