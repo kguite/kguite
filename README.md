@@ -13,7 +13,7 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 - 👩 I’m looking to work with companies that value lifting up women;
 - 🌱 I currently volunteer as website manager and content editor for www.nowseattle.org;
 - 🌳 I recently built https://www.savetheancientoaks.netlify.app;
-- 💻 I’m currently working as a Software Developer at 100Devs,
+- 💻 I’m currently working as a Software Engineer at 100Devs,
 - ⌨️ I'm currently working on Ballard on tAPP and Porch Nonprofit Accounting;
 - 📖 My portfolio can be found at https://www.katiemarie.dev;
 - 📫 To reach me, please email katiemariedev@protonmail.com
