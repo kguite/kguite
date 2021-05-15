@@ -14,7 +14,7 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 - 💻 I’m currently working as a Software Engineer at 100Devs;
 - ⌨️ I'm currently working on a React-based app;
 - 📖 My portfolio can be found at https://www.katiemarie.dev;
-- 👩 I love dark comedies, dark forests, and dark chocolate.
+- 👩 I love dark comedies, dark forests, dark wave music, and dark chocolate.
 
 **Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
