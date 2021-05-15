@@ -10,15 +10,13 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 
 **Personal**
 
-- 👩 I’m looking to work with companies that value lifting up women;
-- 🌱 I currently volunteer as website manager and content editor for www.nowseattle.org;
-- 🌳 I recently built https://www.savetheancientoaks.netlify.app;
+- 🌱 I currently volunteer as website manager and content editor for www.nowseattle.org; (check out our weekly feature, "That Can't Be True"!)
 - 💻 I’m currently working as a Software Engineer at 100Devs,
-- ⌨️ I'm currently working on Ballard on tAPP and Porch Nonprofit Accounting;
+- ⌨️ I'm currently working on a React-based app;
 - 📖 My portfolio can be found at https://www.katiemarie.dev;
-- 📫 To reach me, please email katiemariedev@protonmail.com
+- 📫 To reach me, please email katiemariedev@protonmail.com;
 - 💬 Ask me about anything, I am happy to help.
-
+- 👩 I love dark comedies, dark forests, and dark chocolate.
 
 **Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
