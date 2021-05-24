@@ -8,11 +8,13 @@
 
 Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 
-**Personal**
+**I Am Currently...**
+- 🌱 Website manager and content editor for The National Organization for Women, Seattle: www.nowseattle.org; (check out our weekly feature, "That Can't Be True"!)
+- 💻 Working as a Software Engineer at 100Devs;
+- ⌨️  Building an app to visualize Sorting Algorithms;
+- 🌲 Designing and developing www.protectglobalforests.org
 
-- 🌱 I currently volunteer as website manager and content editor for www.nowseattle.org; (check out our weekly feature, "That Can't Be True"!)
-- 💻 I’m currently working as a Software Engineer at 100Devs;
-- ⌨️ I'm currently building a React-based app;
+**A Little About Me...**
 - 📖 My portfolio can be found at https://www.katiemarie.dev;
 - 👩 I love dark comedies, dark forests, dark chocolate, and dark wave.
 
