@@ -11,7 +11,7 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 **I Am Currently...**
 - 🌱 Website manager and content editor for The National Organization for Women, Seattle: www.nowseattle.org; (check out our weekly feature, "That Can't Be True"!)
 - 💻 Working as a Software Engineer at 100Devs;
-- ⌨️  Building an app to visualize Sorting Algorithms;
+- ⌨️  Building "Be Astonished", a MERN stack gratitude journal;
 - 🌲 Designing and developing www.protectglobalforests.org
 
 **A Little About Me...**
