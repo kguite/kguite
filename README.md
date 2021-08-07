@@ -15,7 +15,7 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 - 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/
 - 🧩 Leveling up my Codewars Kata: https://www.codewars.com/users/katieKodes
 - ✍️ Taking extremely detailed notes for my #100Devs team, and rediscovering how much I love good documentation
-- - 🌲 Designing and developing www.protectglobalforests.org
+- 🌲 Designing and developing www.protectglobalforests.org
 
 **A Little About Me...**
 - 📖 My portfolio can be found at https://www.katiemarie.dev
