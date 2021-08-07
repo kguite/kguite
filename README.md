@@ -12,10 +12,10 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 - 🌱 Website manager and content editor for The National Organization for Women, Seattle: www.nowseattle.org; (check out our feature, "That Can't Be True"!)
 - 💻 Working as a Software Engineer at 100Devs
 - 🍵  Building "Be Astonished", a MERN stack gratitude journal
-- 🌲 Designing and developing www.protectglobalforests.org
 - 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/
 - 🧩 Leveling up my Codewars Kata: https://www.codewars.com/users/katieKodes
 - ✍️ Taking extremely detailed notes for my #100Devs team, and rediscovering how much I love good documentation
+- - 🌲 Designing and developing www.protectglobalforests.org
 
 **A Little About Me...**
 - 📖 My portfolio can be found at https://www.katiemarie.dev
