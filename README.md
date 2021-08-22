@@ -4,6 +4,10 @@
 
 Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 
+<div>
+<img align="right" alt="GIF" src="https://c.tenor.com/LUZs3iI4FFwAAAAC/flower-typing.gif"/>
+</div>
+
 **I Am Currently...**
 - 💻 Working as a Software Engineer at 100Devs
 - 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/
