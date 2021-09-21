@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/katiemariedev/"><img align="center" alt="KatieMarie's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
+Hi there, I'm **Katie Marie**  👩‍💻 
 
 <div>
 <img align="right" alt="GIF" src="https://c.tenor.com/LUZs3iI4FFwAAAAC/flower-typing.gif"/>
