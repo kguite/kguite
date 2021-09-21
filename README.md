@@ -9,7 +9,6 @@ Hi there, I'm **Katie Marie**, a **Software Engineer** 👩‍💻 in Seattle.
 </div>
 
 **I Am Currently...**
-- 💻 Working as a Software Engineer at 100Devs
 - 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/
 - 🌱 Website manager for The National Organization for Women, Seattle: www.nowseattle.org; (check out our feature, "That Can't Be True"!)
 
