@@ -9,12 +9,13 @@ Hi there, I'm **Katie Marie**  👩‍💻
 </div>
 
 **I Am Currently...**
-- 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/
+- 💻 Freelancing for small businesses, grassroots causes.  Both from-scratch website development and WordPress.
 - 🌱 Website manager for The National Organization for Women, Seattle: www.nowseattle.org; (check out our feature, "That Can't Be True"!)
+- 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/ (paused)
 
 **A Little About Me...**
 - 📖 My portfolio can be found at https://www.katiemarie.dev
-- 🥰 Mom of two terrific teens, aunt to numerous nephews, and one nifty niece
+- 😷 In treatment for Non-Hodgkins Lymphoma, November 2021 - March 2022
 - 👩 I love dark comedies, dark forests, dark chocolate, and dark wave. 🎼
 
 **Languages:**
