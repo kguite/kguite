@@ -9,9 +9,10 @@ Hi there, I'm **Katie Marie**  👩‍💻
 </div>
 
 **I Am Currently...**
-- 💻 Freelancing for small businesses, grassroots causes.  Both from-scratch website development and WordPress.
+- 💻 Freelancing for small businesses and grassroots causes.  Both from-scratch website development and WordPress. Current project: a podcast for Seattle writers and the places they intersect.
 - 🌱 Website manager for The National Organization for Women, Seattle: www.nowseattle.org; (check out our feature, "That Can't Be True"!)
-- 📗 Blogging on Hashnode: https://katiemarie.hashnode.dev/ 
+- 📗 Blogging: on Hashnode: https://katiemarie.hashnode.dev/ and creating a personal blog at my portfolio site.
+
 
 **A Little About Me...**
 - 📖 My portfolio can be found at https://www.katiemarie.dev
