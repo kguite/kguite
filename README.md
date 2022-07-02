@@ -5,7 +5,7 @@
 Hi there, I'm **Katie**  👩‍💻 
 
 <div>
-<img align="right" alt="GIF" src="https://c.tenor.com/LUZs3iI4FFwAAAAC/flower-typing.gif"/>
+<img align="right" width="30%" alt="GIF" src="https://c.tenor.com/LUZs3iI4FFwAAAAC/flower-typing.gif"/>
 </div>
 
 **I Am Currently...**
