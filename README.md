@@ -4,9 +4,9 @@
 
 Hi there, I'm **Katie**  👩‍💻 
 
-<div>
+
 <img align="right" width="30%" alt="GIF" src="https://c.tenor.com/LUZs3iI4FFwAAAAC/flower-typing.gif"/>
-</div>
+
 
 **I Am Currently...**
 - 💻 Freelancing for small businesses and grassroots causes; both from-scratch website development and WordPress. 
