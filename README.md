@@ -9,20 +9,21 @@ Hi there, I'm **Katie**  👩‍💻
 
 
 **I Am Currently...**
-- 💻 Freelancing for small businesses and grassroots causes; both from-scratch website development and WordPress. 
-  Current projects: a podcast for Seattle writers and the places they intersect, and a personal chef's business site.
+- 🌍 Employed at a global health nonprofit - REACT, Python, SQL
+- 🎒 Working on a certificate in Business Intelligence and Data Migration from University of Washington
 - ♀️ Website manager for The National Organization for Women, Seattle: www.nowseattle.org, where I also lead a group of teen volunteers at www.nowseattle.org/that-cant-be-true
 - 🌱 Website manager for Seattle's Giving Garden Network: www.sggn.org
+
+**Previously...**
+- 🎓 #100devs 1st cohort alumni, completed September 2021, current volunteer for #women channel
+- 😷The same week #100devs ended, hospitalized for Non-Hodgkins Lymphoma. Chemotherapy treatment October 2021 - March 2022
+- 💻 Freelancing for small businesses and grassroots causes; both from-scratch website development and WordPress. 
 - 🧪 Website manager for SoundBio Lab: https://www.sound.bio/
-
 - 📗 Blogging: on Hashnode: https://katiemarie.hashnode.dev/ and in the process of creating a personal blog at my portfolio site.
-
 
 **A Little About Me...**
 - 📖 My portfolio can be found at https://www.katiemarie.dev
-- 🎓 #100devs 1st cohort alumni, completed September 2021, current volunteer for #women channel 
-- 😷 In treatment for Non-Hodgkins Lymphoma, October 2021 - March 2022
-- 👩 I love dark comedies, dark forests, dark chocolate, and dark wave. 🎼
+- 👩 I love dark comedies, dark forests, and dark wave. 🎼
 
 **Languages:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
