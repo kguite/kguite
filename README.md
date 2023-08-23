@@ -9,8 +9,8 @@ Hi there, I'm **Katie**  👩‍💻
 
 
 **I Am Currently...**
-- 🌍 Employed at a global health nonprofit - REACT, Python, SQL
-- 🎒 Working on a certificate in Business Intelligence and Data Migration from University of Washington
+- 🌍 Working at a global health nonprofit
+- 🎒 Taking a SQL class from the University of Washington
 - ♀️ Website manager for The National Organization for Women, Seattle: www.nowseattle.org, where I also lead a group of teen volunteers at www.nowseattle.org/that-cant-be-true
 - 🌱 Website manager for Seattle's Giving Garden Network: www.sggn.org
 
